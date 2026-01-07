@@ -47,35 +47,49 @@
     <h2>Introduction</h2>
     <p>ChosenRight ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our iOS application.</p>
     
-    <h2>Data Collection</h2>
-    <p><strong>ChosenRight does not collect, transmit, or share any personal data with external servers or third parties.</strong> All data is stored locally on your device and never leaves your device.</p>
+    <h2>Data Collection and Storage</h2>
+    <p>ChosenRight stores data both locally on your device and in your iCloud account (via Apple's CloudKit service) to enable partner syncing functionality.</p>
     
-    <h2>Local Data Storage</h2>
-    <p>The app stores the following information locally on your device for app functionality:</p>
+    <h3>Local Data Storage</h3>
+    <p>The app stores the following information locally on your device:</p>
     <ul>
         <li><strong>User Information:</strong> Your display name and baby's last name (as entered by you)</li>
         <li><strong>Preferences:</strong> Gender preferences, name style preferences, and other app settings</li>
-        <li><strong>App Activity:</strong> Your name swipes, scores, and shortlist entries</li>
         <li><strong>Purchase Status:</strong> Information about in-app purchases (handled securely by Apple)</li>
-        <li><strong>User Identifier:</strong> A local identifier from Sign in with Apple (stored securely on your device)</li>
     </ul>
-    <p>This data is stored using iOS's standard local storage mechanisms (UserDefaults and file system) and is only accessible on your device.</p>
+    
+    <h3>CloudKit/iCloud Storage</h3>
+    <p>To enable partner connection and data syncing, the following data is stored in your iCloud account using Apple's CloudKit service:</p>
+    <ul>
+        <li><strong>Partner Connection:</strong> Pairing codes and partner link information</li>
+        <li><strong>Shortlist Entries:</strong> Names you have shortlisted (swiped right on)</li>
+        <li><strong>Name Scores:</strong> Scores you have given to names (1-10 ratings)</li>
+        <li><strong>User Identifier:</strong> A unique identifier from Sign in with Apple</li>
+    </ul>
+    <p>This data is stored in your private iCloud CloudKit database, which is encrypted and only accessible by you and your connected partner. We do not have access to your iCloud account or the data stored there.</p>
     
     <h2>Sign in with Apple</h2>
     <p>We use Sign in with Apple for authentication. This service is provided by Apple and is subject to Apple's Privacy Policy. We only receive and store a user identifier locally on your device to maintain your app session. We do not have access to your Apple ID, email address, or any other information from your Apple account.</p>
     
     <h2>Third-Party Services</h2>
-    <p>We do not use any analytics services, advertising networks, or third-party SDKs that collect data. The app does not transmit any data to external servers.</p>
+    <p>We use Apple's CloudKit service to sync data between connected partners. CloudKit is Apple's cloud database service that stores data in your iCloud account. This service is subject to Apple's Privacy Policy and Terms of Service. We do not use any analytics services, advertising networks, or other third-party SDKs that collect data.</p>
     
     <h2>In-App Purchases</h2>
     <p>In-app purchases are processed entirely by Apple through the App Store. We do not have access to your payment information. Purchase status is stored locally on your device to enable purchased features.</p>
     
     <h2>Data Sharing</h2>
-    <p>We do not share, sell, or transmit your data to any third parties. All data remains on your device.</p>
+    <p><strong>Partner Data Sharing:</strong> When you connect with a partner using a pairing code, your shortlist entries and name scores are synced with your partner's device via CloudKit. This allows both partners to see names they have in common and view each other's scores. Only data related to name selections (shortlists and scores) is shared with your connected partner. Your display name, preferences, and other personal information are not shared.</p>
+    <p><strong>No Third-Party Sharing:</strong> We do not share, sell, or transmit your data to any third parties other than Apple's CloudKit service (which stores data in your own iCloud account). We do not have access to your data stored in CloudKit.</p>
     
     <h2>Data Deletion</h2>
     <p>You can delete all app data at any time by using the "Reset App" feature in the app's menu. This will permanently delete all locally stored data, including preferences, swipes, scores, and shortlists.</p>
-    <p>You can also delete the app from your device, which will remove all associated data.</p>
+    <p><strong>CloudKit Data:</strong> To delete data stored in your iCloud account, you can:</p>
+    <ul>
+        <li>Use the "Reset App" feature, which will also attempt to delete CloudKit data</li>
+        <li>Disconnect from your partner, which will stop syncing but may not delete existing CloudKit records</li>
+        <li>Manage your iCloud data through your device's iCloud settings</li>
+    </ul>
+    <p>You can also delete the app from your device, which will remove all locally stored data. CloudKit data may remain in your iCloud account until manually deleted.</p>
     
     <h2>Children's Privacy</h2>
     <p>Our app is designed for adults (parents/guardians) choosing baby names. We do not knowingly collect information from children under 13. If you believe we have inadvertently collected information from a child, please contact us immediately.</p>
@@ -84,17 +98,20 @@
     <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.</p>
     
     <h2>Your Rights</h2>
-    <p>Since all data is stored locally on your device, you have complete control over your data. You can:</p>
+    <p>You have control over your data. You can:</p>
     <ul>
         <li>View your data within the app</li>
         <li>Delete your data using the "Reset App" feature</li>
-        <li>Delete the app to remove all data from your device</li>
+        <li>Disconnect from your partner at any time to stop data syncing</li>
+        <li>Manage your iCloud data through your device settings</li>
+        <li>Delete the app to remove all locally stored data</li>
     </ul>
     
     <div class="contact">
         <h2>Contact Us</h2>
         <p>If you have any questions about this Privacy Policy, please contact us at:</p>
-        <p><strong>Email:</strong> [Your contact email address]</p>
+        <p><strong>Email:</strong> <a href="mailto:andrewwebster21@me.com">andrewwebster21@me.com</a></p>
+        <p><strong>GitHub Repository:</strong> <a href="https://github.com/TheAppDad/Chosen-Right-App" target="_blank" rel="noopener noreferrer">https://github.com/TheAppDad/Chosen-Right-App</a></p>
     </div>
     
     <p style="margin-top: 40px; color: #7f8c8d; font-size: 0.9em;">
