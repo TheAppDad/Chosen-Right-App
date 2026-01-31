@@ -1,0 +1,232 @@
+TERMS OF SERVICE
+
+Last Updated: January 2025
+
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THE CHOSENRIGHT APPLICATION.
+
+1. ACCEPTANCE OF TERMS
+
+By downloading, installing, accessing, or using the ChosenRight mobile application ("App" or "Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+
+These Terms constitute a legally binding agreement between you and the Application Provider ("we," "us," or "our"). Your use of the App is also governed by our Privacy Policy, which can be found at: https://theappdad.github.io/Chosen-Right-App/
+
+2. DESCRIPTION OF SERVICE
+
+ChosenRight is a mobile application that helps couples collaborate on selecting baby names. The Service includes:
+- Curated database of baby names with origin, meaning, and style information
+- Swipe-based interface for reviewing names
+- Partner connection and synchronization features
+- Name scoring and shortlisting functionality
+- Data synchronization via Apple CloudKit
+
+3. ELIGIBILITY AND AGE REQUIREMENTS
+
+You must be of legal age in your jurisdiction to enter into a binding agreement to use the App. By using the App, you represent and warrant that:
+- You are of legal age to enter into these Terms (typically 18 years or older, depending on your jurisdiction)
+- You have the legal capacity to enter into these Terms
+- You will comply with all applicable laws and regulations
+- All information you provide is accurate and current
+
+4. ACCOUNT REGISTRATION AND SECURITY
+
+4.1 Sign in with Apple
+The App uses Sign in with Apple for authentication. By using this feature, you agree to:
+- Provide accurate and complete information
+- Maintain the security of your Apple ID credentials
+- Notify us immediately of any unauthorized access to your account
+- Accept responsibility for all activities that occur under your account
+
+4.2 Account Security
+You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. We are not liable for any loss or damage arising from your failure to protect your account information.
+
+5. PARTNER CONNECTION AND DATA SHARING
+
+5.1 Partner Pairing
+The App allows you to connect with a partner using a pairing code. By connecting with a partner:
+- You consent to sharing your name preferences, scores, and shortlist data with your connected partner
+- You acknowledge that your partner will have access to your name selections and scores
+- You are responsible for ensuring you connect with the intended partner
+- You may disconnect from your partner at any time through the App settings
+
+5.2 Data Synchronization
+The App uses Apple CloudKit to synchronize data between connected partners. By using this feature:
+- You understand that your data will be stored in Apple's iCloud service
+- You consent to the synchronization of your name preferences and scores with your connected partner
+- You acknowledge that data synchronization is subject to Apple's CloudKit terms and your iCloud account status
+- We are not responsible for any data loss or synchronization failures
+
+6. USER CONTENT AND CONDUCT
+
+6.1 User Content
+You retain ownership of any content you create within the App, including name scores, preferences, and shortlists. By using the App, you grant us a limited, non-exclusive, worldwide, royalty-free license to:
+- Store, process, and display your content as necessary to provide the Service
+- Synchronize your content with your connected partner
+- Use aggregated, anonymized data for service improvement
+
+6.2 Acceptable Use
+You agree not to:
+- Use the App for any illegal purpose or in violation of any laws
+- Attempt to gain unauthorized access to the App or related systems
+- Interfere with or disrupt the App or servers
+- Use automated systems (bots, scrapers) to access the App
+- Reverse engineer, decompile, or disassemble the App
+- Remove any proprietary notices or labels
+- Share your pairing code with unauthorized parties
+- Use the App to harass, abuse, or harm others
+
+7. IN-APP PURCHASES AND SUBSCRIPTIONS
+
+7.1 Free Tier
+The App offers a free tier that allows access to 25 names per gender (50 total names). This free access is subject to change at our discretion.
+
+7.2 Premium Features
+The App offers a one-time in-app purchase to unlock unlimited access to all names. By making a purchase:
+- You agree to pay the price displayed at the time of purchase
+- All purchases are processed through Apple's App Store
+- All purchases are final and non-refundable unless required by law or as otherwise stated
+- Prices may vary by location and are subject to change
+- You are responsible for any applicable taxes
+
+7.3 Refund Policy
+Refunds are subject to Apple's App Store refund policy. If you believe you are entitled to a refund, please contact Apple Support or us at: saffron.gannet.53@icloud.com
+
+8. INTELLECTUAL PROPERTY
+
+8.1 Our Rights
+The App, including its design, features, name database, and all related content, is protected by copyright, trademark, and other intellectual property laws. All rights not expressly granted are reserved.
+
+8.2 Name Database
+The name database, including origin, meaning, and style information, is proprietary to us. You may not copy, reproduce, or distribute the name database outside of the App.
+
+9. PRIVACY AND DATA PROTECTION
+
+Your privacy is important to us. Our collection, use, and disclosure of your personal information is governed by our Privacy Policy, available at: https://theappdad.github.io/Chosen-Right-App/
+
+By using the App, you consent to:
+- The collection and processing of your data as described in the Privacy Policy
+- The use of Apple CloudKit for data synchronization
+- The sharing of your name preferences and scores with your connected partner
+
+10. SERVICE AVAILABILITY AND MODIFICATIONS
+
+10.1 Availability
+We strive to provide continuous access to the App, but we do not guarantee that the Service will be available at all times. The App may be unavailable due to:
+- Maintenance or updates
+- Technical issues
+- Force majeure events
+- Actions by third parties (including Apple)
+
+10.2 Modifications
+We reserve the right to:
+- Modify, suspend, or discontinue any part of the App at any time
+- Change features, functionality, or content
+- Update these Terms at any time
+- Impose limits on usage or access
+
+We will notify you of material changes to these Terms by updating the "Last Updated" date. Your continued use of the App after changes constitutes acceptance of the modified Terms.
+
+11. TERMINATION
+
+11.1 Termination by You
+You may stop using the App at any time by deleting it from your device. You may also disconnect from your partner or delete your account through the App settings.
+
+11.2 Termination by Us
+We may suspend or terminate your access to the App at any time, with or without notice, if:
+- You violate these Terms
+- You engage in fraudulent or illegal activity
+- We discontinue the Service
+- Required by law or court order
+
+11.3 Effect of Termination
+Upon termination:
+- Your right to use the App immediately ceases
+- We may delete your account and data (subject to our Privacy Policy)
+- Provisions that by their nature should survive will remain in effect
+
+12. DISCLAIMER OF WARRANTIES
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- WARRANTIES OF MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- ACCURACY, RELIABILITY, OR COMPLETENESS OF CONTENT
+- UNINTERRUPTED OR ERROR-FREE OPERATION
+
+We do not warrant that:
+- The App will meet your requirements
+- The App will be available at all times
+- Errors will be corrected
+- The App is free of viruses or harmful components
+
+13. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE BE LIABLE FOR:
+- ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+- LOSS OF PROFITS, DATA, OR USE
+- PERSONAL INJURY OR PROPERTY DAMAGE
+- DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE APP
+- DAMAGES ARISING FROM PARTNER CONNECTION OR DATA SYNCHRONIZATION ISSUES
+
+Our total liability for any claims arising from or related to the App shall not exceed the amount you paid for in-app purchases in the 12 months preceding the claim, or $10, whichever is greater.
+
+Some jurisdictions do not allow the exclusion of certain warranties or limitations of liability, so some of the above may not apply to you.
+
+14. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless us, our affiliates, and our respective officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any rights of another party
+- Your connection with a partner and any disputes arising therefrom
+
+15. DISPUTE RESOLUTION
+
+15.1 Governing Law
+These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which you reside, without regard to its conflict of law provisions.
+
+15.2 Informal Resolution
+Before filing a claim, you agree to contact us at saffron.gannet.53@icloud.com to attempt to resolve the dispute informally.
+
+15.3 Binding Arbitration
+If we cannot resolve a dispute informally, you agree that any dispute arising from or relating to these Terms or the App shall be resolved through binding arbitration, except where prohibited by law.
+
+16. APPLE-SPECIFIC TERMS
+
+16.1 App Store Terms
+Your use of the App is also subject to Apple's App Store Terms of Service. In the event of a conflict, these Terms shall govern to the extent permitted by Apple's terms.
+
+16.2 Apple's Role
+Apple is not a party to these Terms and has no responsibility for the App or its content. Apple provides no warranty for the App.
+
+16.3 Apple ID and iCloud
+The App requires an Apple ID and may use iCloud services. Your use of these services is subject to Apple's terms and conditions.
+
+17. GENERAL PROVISIONS
+
+17.1 Entire Agreement
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and us regarding the App.
+
+17.2 Severability
+If any provision of these Terms is found to be unenforceable, the remaining provisions will remain in full effect.
+
+17.3 Waiver
+Our failure to enforce any provision of these Terms does not constitute a waiver of that provision.
+
+17.4 Assignment
+You may not assign or transfer these Terms or your rights hereunder without our prior written consent. We may assign these Terms without restriction.
+
+17.5 Contact Information
+If you have any questions about these Terms, please contact us at:
+Email: saffron.gannet.53@icloud.com
+
+18. CHANGES TO TERMS
+
+We reserve the right to modify these Terms at any time. We will notify you of material changes by:
+- Updating the "Last Updated" date at the top of these Terms
+- Posting a notice in the App (if applicable)
+
+Your continued use of the App after changes become effective constitutes acceptance of the modified Terms. If you do not agree to the modified Terms, you must stop using the App.
+
+---
+
+By using ChosenRight, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.

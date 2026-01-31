@@ -1,0 +1,30 @@
+STANDARD APPLE END USER LICENSE AGREEMENT
+
+This End User License Agreement ("Agreement") is a binding agreement between you and the Application Provider ("Licensor") governing your use of the ChosenRight application ("Application") on your Apple-branded device.
+
+By downloading, installing, or using the Application, you agree to be bound by this Agreement. If you do not agree to the terms of this Agreement, do not download, install, or use the Application.
+
+1. License Grant. Subject to the terms of this Agreement, Licensor grants you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the Application on your Apple-branded device for your personal, non-commercial use.
+
+2. Restrictions. You may not:
+   - Copy, modify, or create derivative works of the Application
+   - Reverse engineer, disassemble, or decompile the Application
+   - Remove any proprietary notices or labels on the Application
+   - Rent, lease, lend, sell, sublicense, or otherwise transfer the Application
+
+3. In-App Purchases. The Application may offer in-app purchases. All purchases are final and non-refundable unless required by law. Prices may vary by location.
+
+4. User Content. You are solely responsible for any content you create or share within the Application. You grant Licensor a license to use, store, and share your content as necessary to provide the Application's services.
+
+5. Privacy. Your use of the Application is also governed by our Privacy Policy, which can be found at: https://theappdad.github.io/Chosen-Right-App/
+
+6. Termination. This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically if you fail to comply with any of its terms. Licensor may also terminate this Agreement at any time.
+
+7. Disclaimer of Warranties. THE APPLICATION IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+8. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR USE OF THE APPLICATION.
+
+9. Contact Information. If you have any questions about this Agreement, please contact us at: saffron.gannet.53@icloud.com
+
+10. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which you reside, without regard to its conflict of law provisions.
+
