@@ -31,11 +31,36 @@
             border-radius: 5px;
             margin-top: 20px;
         }
+        .image-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin: 20px 0 10px;
+        }
+        .image-card {
+            text-align: center;
+        }
+        .image-card img {
+            max-width: 180px;
+            width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+        }
     </style>
 </head>
 <body>
     <h1>ChosenRight Support</h1>
     <p>If you need help, please contact us using the details below.</p>
+
+    <div class="image-row">
+        <div class="image-card">
+            <img src="https://raw.githubusercontent.com/TheAppDad/Chosen-Right-App/a86b81fe311de635256a53a45c0b1d3a90de7afc/The%20app%20dad%20insta%20profile%20pic.png" alt="TheAppDad profile picture">
+        </div>
+        <div class="image-card">
+            <img src="https://raw.githubusercontent.com/TheAppDad/Chosen-Right-App/main/Chosen%20Icon.png" alt="ChosenRight app icon">
+        </div>
+    </div>
     
     <div class="contact">
         <h2>Contact</h2>
@@ -43,10 +68,16 @@
     </div>
     
     <h2>Common Questions</h2>
+    <p><strong>What happens when I delete my account?</strong><br>
+    It removes your data from your devices and deletes your account from our servers.</p>
+
     <p><strong>How do I delete my account?</strong><br>
-    In the app, open the menu and choose <em>Reset app → Delete Account</em>.</p>
+    Open the menu (top left) and choose <em>Reset app → Delete Account</em>.</p>
     
+    <p><strong>How do I reset my swipes and scores?</strong><br>
+    Open the menu (top left) and choose <em>Reset app</em>. This clears data on this device.</p>
+
     <p><strong>How do I connect with a partner?</strong><br>
-    Tap <em>Share Invite</em> and send the link to your partner. They should open the link on a device with ChosenRight installed.</p>
+    Tap <em>Share Invite</em> and send the code to your partner. They should enter the code on their device.</p>
 </body>
 </html>
