@@ -1,6 +1,6 @@
 TERMS OF SERVICE
 
-Last Updated: January 2025
+Last Updated: February 2026
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THE CHOSENRIGHT APPLICATION.
 
@@ -17,7 +17,7 @@ ChosenRight is a mobile application that helps couples collaborate on selecting 
 - Swipe-based interface for reviewing names
 - Partner connection and synchronization features
 - Name scoring and shortlisting functionality
-- Data synchronization via Apple CloudKit
+- Data synchronization via Supabase
 
 3. ELIGIBILITY AND AGE REQUIREMENTS
 
@@ -49,10 +49,10 @@ The App allows you to connect with a partner using a pairing code. By connecting
 - You may disconnect from your partner at any time through the App settings
 
 5.2 Data Synchronization
-The App uses Apple CloudKit to synchronize data between connected partners. By using this feature:
-- You understand that your data will be stored in Apple's iCloud service
+The App uses Supabase to synchronize data between connected partners. By using this feature:
+- You understand that your data will be stored in our backend database
 - You consent to the synchronization of your name preferences and scores with your connected partner
-- You acknowledge that data synchronization is subject to Apple's CloudKit terms and your iCloud account status
+- You acknowledge that data synchronization depends on network availability and service uptime
 - We are not responsible for any data loss or synchronization failures
 
 6. USER CONTENT AND CONDUCT
@@ -104,7 +104,7 @@ Your privacy is important to us. Our collection, use, and disclosure of your per
 
 By using the App, you consent to:
 - The collection and processing of your data as described in the Privacy Policy
-- The use of Apple CloudKit for data synchronization
+- The use of Supabase for data synchronization
 - The sharing of your name preferences and scores with your connected partner
 
 10. SERVICE AVAILABILITY AND MODIFICATIONS

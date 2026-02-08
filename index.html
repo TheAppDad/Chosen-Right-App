@@ -42,13 +42,13 @@
 </head>
 <body>
     <h1>Privacy Policy for ChosenRight</h1>
-    <p class="last-updated"><strong>Last Updated:</strong> January 2026</p>
+    <p class="last-updated"><strong>Last Updated:</strong> February 2026</p>
     
     <h2>Introduction</h2>
     <p>ChosenRight ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our iOS application.</p>
     
     <h2>Data Collection and Storage</h2>
-    <p>ChosenRight stores data both locally on your device and in your iCloud account (via Apple's CloudKit service) to enable partner syncing functionality.</p>
+    <p>ChosenRight stores data locally on your device and in our backend database (Supabase) to enable partner syncing functionality.</p>
     
     <h3>Local Data Storage</h3>
     <p>The app stores the following information locally on your device:</p>
@@ -58,35 +58,35 @@
         <li><strong>Purchase Status:</strong> Information about in-app purchases (handled securely by Apple)</li>
     </ul>
     
-    <h3>CloudKit/iCloud Storage</h3>
-    <p>To enable partner connection and data syncing, the following data is stored in your iCloud account using Apple's CloudKit service:</p>
+    <h3>Backend Storage (Supabase)</h3>
+    <p>To enable partner connection and data syncing, the following data is stored in our Supabase database:</p>
     <ul>
         <li><strong>Partner Connection:</strong> Pairing codes and partner link information</li>
         <li><strong>Shortlist Entries:</strong> Names you have shortlisted (swiped right on)</li>
         <li><strong>Name Scores:</strong> Scores you have given to names (1-10 ratings)</li>
         <li><strong>User Identifier:</strong> A unique identifier from Sign in with Apple</li>
     </ul>
-    <p>This data is stored in your private iCloud CloudKit database, which is encrypted and only accessible by you and your connected partner. We do not have access to your iCloud account or the data stored there.</p>
+    <p>This data is stored in Supabase and protected by authentication and row-level security. We only access this data to provide the app’s core functionality and do not sell or share it with third parties.</p>
     
     <h2>Sign in with Apple</h2>
-    <p>We use Sign in with Apple for authentication. This service is provided by Apple and is subject to Apple's Privacy Policy. We only receive and store a user identifier locally on your device to maintain your app session. We do not have access to your Apple ID, email address, or any other information from your Apple account.</p>
+    <p>We use Sign in with Apple for authentication. This service is provided by Apple and is subject to Apple's Privacy Policy. We store a user identifier to maintain your app session and associate your data with your account. We do not have access to your Apple ID, email address, or any other information from your Apple account.</p>
     
     <h2>Third-Party Services</h2>
-    <p>We use Apple's CloudKit service to sync data between connected partners. CloudKit is Apple's cloud database service that stores data in your iCloud account. This service is subject to Apple's Privacy Policy and Terms of Service. We do not use any analytics services, advertising networks, or other third-party SDKs that collect data.</p>
+    <p>We use Supabase as our backend service for authentication and data storage. Supabase is a third-party service provider that processes data on our behalf. We do not use analytics services, advertising networks, or other third-party SDKs that collect data.</p>
     
     <h2>In-App Purchases</h2>
     <p>In-app purchases are processed entirely by Apple through the App Store. We do not have access to your payment information. Purchase status is stored locally on your device to enable purchased features.</p>
     
     <h2>Data Sharing</h2>
-    <p><strong>Partner Data Sharing:</strong> When you connect with a partner using an invite link, your shortlist entries and name scores are synced with your partner's device via CloudKit. This allows both partners to see names they have in common and view each other's scores. Only data related to name selections (shortlists and scores) is shared with your connected partner. Your display name, preferences, and other personal information are not shared.</p>
-    <p><strong>No Third-Party Sharing:</strong> We do not share, sell, or transmit your data to any third parties other than Apple's CloudKit service (which stores data in your own iCloud account). We do not have access to your data stored in CloudKit.</p>
+    <p><strong>Partner Data Sharing:</strong> When you connect with a partner using an invite code, your shortlist entries and name scores are synced with your partner’s account through our backend. This allows both partners to see names they have in common and view each other’s scores. Only data related to name selections (shortlists and scores) is shared with your connected partner. Your display name, preferences, and other personal information are not shared.</p>
+    <p><strong>No Third-Party Sharing:</strong> We do not share, sell, or transmit your data to any third parties beyond our service providers that help us run the app (such as Supabase).</p>
     
     <h2>Account Deletion</h2>
-    <p>You can delete your account and associated data at any time from within the app: <strong>Menu → Reset app → Delete Account</strong>. This permanently removes your local data and your CloudKit records (shortlists, scores, and partner link records) associated with your account.</p>
+    <p>You can delete your account and associated data at any time from within the app: <strong>Menu → Reset app → Delete Account</strong>. This permanently removes your local data and your Supabase records (shortlists, scores, and partner link records) associated with your account.</p>
     <p>If deletion fails for any reason, please contact us at the email below and we will assist you.</p>
 
     <h2>Reset App (Local Only)</h2>
-    <p>The "Reset App" option clears local data on this device (preferences, swipes, scores, and shortlists). It does not delete your CloudKit data unless you choose "Delete Account."</p>
+    <p>The "Reset App" option clears local data on this device (preferences, swipes, scores, and shortlists). It does not delete your backend data unless you choose "Delete Account."</p>
     
     <h2>Children's Privacy</h2>
     <p>Our app is designed for adults (parents/guardians) choosing baby names. We do not knowingly collect information from children under 13. If you believe we have inadvertently collected information from a child, please contact us immediately.</p>
@@ -100,7 +100,6 @@
         <li>View your data within the app</li>
         <li>Delete your data using the "Reset App" feature</li>
         <li>Disconnect from your partner at any time to stop data syncing</li>
-        <li>Manage your iCloud data through your device settings</li>
         <li>Delete the app to remove all locally stored data</li>
     </ul>
     
