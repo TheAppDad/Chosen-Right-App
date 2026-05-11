@@ -1,0 +1,14 @@
+name: Supabase weekly ping
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Every Sunday at midnight UTC
+  workflow_dispatch:       # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Supabase REST API
+        run: |
+          curl -X GET "https://ynmvxmrrtcveborkegsf.supabase.co/rest/v1/shortlist_entries?limit=1" \
+          -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}"
